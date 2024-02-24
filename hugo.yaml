@@ -1,3 +1,4 @@
 baseURL: https://blog.michitoshiyano.com/
 languageCode: ja-jp
 title: nagauta blog
+theme: ["PaperMod"]
