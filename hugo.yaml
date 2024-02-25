@@ -5,7 +5,7 @@ theme: ["PaperMod"]
 mainsections: ["posts", "papermod"]
 params:
   homeInfoParams:
-    Title: "nagauta blog"
+    Title: "oh, dear, hello there!"
     Content: >
       👋 音楽とRaycastが好きなソフトウェアエンジニアです。
 
