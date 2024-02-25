@@ -2,3 +2,19 @@ baseURL: https://blog.michitoshiyano.com/
 languageCode: ja-jp
 title: nagauta blog
 theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: "PaperMod's Demo"
+    Content: >
+      👋 音楽とRaycastが好きなソフトウェアエンジニアです。
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/nagauta/"
+    - name: linkedin
+      title: Connect on Linkdin
+      url: "https://www.linkedin.com/in/michitoshiyano/"
+    - name: raycast
+      title: Works at raycast
+      url: "https://www.raycast.com/nagauta"
